@@ -54,3 +54,40 @@ CUSTOMER RELATIONS
 
 LANGUAGE ABILITY
 + good enough English skills presented, however there's always room for improvement, so keep practicing
+
+*****
+
+DEVELOPMENT EXPERIENCE AND KNOWLEDGE
+- Compare .NET f/w and .NET core, but mentioned only performance, DI containers, middlewares, some differences in usage. Was not able to explain how .NET Core application can be run on Linux. He could not convince me that he understands the differences in depths
+- How AWS lambda can run .NET Core code.
+- Value vs reference types .explained to junior: He mentioned value types are immutable, which is not true, but depends on the implementation, mentioned record but it's reference type.
+- Finalize vs dispose vs destructor
+- Linq Where: Was very slow, but at the end he was able to define something which can be a kind of Where signature.
+- Number of stacks: He mentioned we have only one, but that is not true.
+- He was able to explain what is implemented by lambda functions on his project, but doesn't know why it is a lambda and why not for e.g. Eventbridge.
+- API gateway vs proxy service: He was not able to explain what is the difference between the responsibilities of these two components.
+- He is not familiar with diagramming tools too much, does not use UML (only sketches), could not enumerate diagram types
+- Not familiar with static architecture diagram.
+- could not convincingly explain how AWS lambdas can run asp .net app (in general, could not convincingly explain how .NET Core can run on Linux, or other platforms)
+- could not mention an antipattern (like singleton itself being both a pattern and antipattern as well)
+- did not mention the performance penalty of copying of value types when reassigning
+- could not elaborate on finalization queue and destructor - in the aspect of IDisposable
+- missed clarity on number of stack (per thread)
+- could not elaborate on tools for measuring unit test quality (like mutation tests)
+- could not elaborate on Expression<>
+- could not go details of of AWS lambdas
+- proxy vs api-gateway - could not provide a detailed comparison
+- could not mention diagram types for representing data flow
+- could not list any cloud/architectural design pattern on his own
+
+ROLES PLAYED ON A PROJECT
+- how to convince customer about automation testing: good points mentioned from the technical perspective, however for a non-technical person, it might have not been convincing enough
+
+SOFTWARE PROCESS KNOWLEDGE
+- Scope changes: he'd handle scope change by reserving capacity in each sprint for unknown work, but there are many other ways to handle scope changes in a better way than constantly calculate with a placeholder.
+
+- quality gates: just like with earlier topics, good technical points have been mentioned, however a D4 is more likely to talk with non-technical people, thus needs to have the ability to explain topics in a less technical way
+- for quality gates he should have mentioned topics like (manual) testing, code reviews, UAT, etc
+
+Reliability:
+- Underperforming team: Needs more investigation and actions to improve performance of the team before escalation to the PM
