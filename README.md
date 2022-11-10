@@ -10,7 +10,8 @@ DEVELOPMENT EXPERIENCE AND KNOWLEDGE
 - He knows some cloud design patterns and he was able to explain in details the circuit breaker.
 - He has experience with CQRS design pattern as well, he mentioned benefits to use it.
 
-+.net core vs .net fw - good points mentioned (DI being part of .net core, simpler, open source, lightweight, etc)
++ .net core vs .net fw 
+-- good points mentioned (DI being part of .net core, simpler, open source, lightweight, etc)
 + mentioned JIT - was able to describe the mechanics behind in high level
 + mentioned kestrel
 + mentioned good points for good quality code (patterns, clean code, tests, etc)
