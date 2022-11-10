@@ -91,3 +91,7 @@ SOFTWARE PROCESS KNOWLEDGE
 
 Reliability:
 - Underperforming team: Needs more investigation and actions to improve performance of the team before escalation to the PM
+
+Architectural Styles and Patterns
+- https://www.linkedin.com/learning/microservices-foundations
+
