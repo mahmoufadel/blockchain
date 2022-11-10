@@ -36,19 +36,18 @@ Quality
 - Unit testing: F.I.R.S.T explained.
 
 ROLES PLAYED ON A PROJECT
-+- how to convince customer about automation testing: good points mentioned from the technical perspective, however for a non-technical person, it might have not been convincing enough
+- How to convince customer about automation testing: good points mentioned from the technical perspective, however for a non-technical person, it might have not been convincing enough
 
 SOFTWARE PROCESS KNOWLEDGE
 + quality gates on CI pipeline - mentioned sonar
 + good practices mentioned for code reviews
 + mentioned pair programming
 + how to estimate unknown - mentioned and explained spike, tech debt
-
 + how to manage deadline - mentioned prioritizing, deciding on what gets delivered with the customer/PO
 + unplanned work - mentioned the strategy of planning for unplanned work buffer into each sprint
 
 CUSTOMER RELATIONS
-- Missed deadline: He was able to handle this situation in a good way.
++ Missed deadline: He was able to handle this situation in a good way.
 + always involves customer's representatives and stakeholders when making decisions decisions like changing scope of sprint, or prioritizing deliverables
 + gave decent response on how to handle complaints from the customer's-side
 
