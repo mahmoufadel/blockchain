@@ -274,7 +274,7 @@ CI/CD
 - [CI/CD tools](https://www.linkedin.com/learning/continuous-integration-tools)
 ***********************
 SDLC. Estimations
-[Software Development Life Cycle (SDLC)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc/waterfall-model-brief-overview)
+- [Software Development Life Cycle (SDLC)](https://www.linkedin.com/learning/software-development-life-cycle-sdlc/waterfall-model-brief-overview)
 - [Software Development Life Cycle (SDLC) [Section 2]](https://www.linkedin.com/learning/software-development-life-cycle-sdlc/scrum-overview)
 - [Agile Software Development](https://www.linkedin.com/learning/agile-software-development/scrum-introduction)
 - [Agile Software Development [Section 2]](https://www.linkedin.com/learning/agile-software-development/lean-history)
