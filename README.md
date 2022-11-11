@@ -94,4 +94,6 @@ Reliability:
 
 Architectural Styles and Patterns
 - https://www.linkedin.com/learning/microservices-foundations
+- 
+- [a link](https://martinfowler.com/articles/serverless.html)
 
