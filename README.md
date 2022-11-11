@@ -97,3 +97,25 @@ Architectural Styles and Patterns
 - 
 - [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
 
+*****************************
+RESTful Web API
+- [REST Architectural Constraints](https://restfulapi.net/rest-architectural-constraints/)
+- [Statelessness in REST APIs](https://restfulapi.net/statelessness/)
+- [Caching REST API Response](https://restfulapi.net/caching/)
+- [REST API Versioning](https://restfulapi.net/versioning/)
+- [Create web APIs with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/web-api)
+- [ASP.NET Core web API documentation with Swagger / OpenAPI](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger)
+- [Best practices for REST API](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design)
+- [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
+- [Use web API analyzers](https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/analyzers)
+- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+- [REST vs RPC: What problems are you trying to solve with your APIs?](https://cloud.google.com/blog/products/application-development/rest-vs-rpc-what-problems-are-you-trying-to-solve-with-your-apis)
+- [Why your APIs should be entity-oriented](https://cloud.google.com/blog/products/api-management/why-your-web-apis-should-be-entity-oriented)
+- [gRPC vs REST: Understanding gRPC, OpenAPI and REST and when to use them in API design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+- [ASP.NET Core 2: Building Cross-Platform Back-End Systems](https://bookz.lab.epam.com/details/modern-api-design-aspnet-core-2-building-cross-platform-back/9781484235188)
+- [RESTful API Design Patterns and Best Practices](https://bookz.lab.epam.com/details/hands-restful-api-design-patterns-and-best-practices-design/9781788992664)
+- [Welcome to OData](https://docs.microsoft.com/en-us/odata/overview)
+- [OData Connected Service](https://docs.microsoft.com/en-us/odata/connectedservice/getting-started)
+- [Practical REST API Guide](https://github.com/drminnaar/ranker)
+- [Why HATEOAS is useless and what that means for REST](https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8)
+
