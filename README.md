@@ -93,10 +93,35 @@ Reliability:
 - Underperforming team: Needs more investigation and actions to improve performance of the team before escalation to the PM
 
 Architectural Styles and Patterns
-- https://www.linkedin.com/learning/microservices-foundations
-- 
+[Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns)
+- [Monolithic vs. Microservices Architecture](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)
+- [Software Architecture: Patterns for Developers](https://www.linkedin.com/learning/software-architecture-patterns-for-developers)
+- [Microservices Foundations](https://www.linkedin.com/learning/microservices-foundations)
+- [Service-Oriented Architecture](https://www.ibm.com/cloud/learn/soa)
 - [Serverless Architecture](https://martinfowler.com/articles/serverless.html)
-
+- [What is a serverless microservice ](https://www.cloudflare.com/learning/serverless/glossary/serverless-microservice)
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices)
+- [Breaking a Monolith into Microservices](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices)
+- [Serverless Architecture](https://www.linkedin.com/learning/serverless-architecture/understand-serverless)
+- [How to Create Application Architecture Diagram Online? ](https://geekflare.com/create-application-architecture-diagram)
+*****************************
+Layered Architectures
+- [Layered Architecture / N-Layer Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+- [﻿Clean architecture tutorial: Design for enterprise-scale apps](https://www.educative.io/blog/clean-architecture-tutorial)
+- [Clean Architecture with ASP.NET Core 3.0 • Jason Taylor • GOTO 2019](https://www.youtube.com/watch?v=dK4Yb6-LxAk)
+- [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+- [Clean Architecture with ASP.NET Core 6](https://www.youtube.com/watch?v=lkmvnjypENw)
+- [Domain-Driven Design within Layered Architectures](https://archfirst.org/domain-driven-design-6-layered-architecture)
+- [Comparison of Domain-Driven Design and Clean Architecture Concepts](https://khalilstemmler.com/articles/software-design-architecture/domain-driven-design-vs-clean-architecture/)
+- [Software Architecture AntiPatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
+- [Spaghetti Code](https://sourcemaking.com/antipatterns/spaghetti-code)
+- [The Logical vs the Physical: Layered Architecture](https://www.freekpaans.nl/2016/02/the-logical-vs-the-physical-business-rules/)
+- [Clean Architecture by Robert C. Martin](https://bookz.lab.epam.com/details/clean-architecture/9780134494166)
+- [The Concept of Domain-Driven Design Explained](https://medium.com/microtica/the-concept-of-domain-driven-design-explained-3184c0fd7c3f)
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together)
+- [N-Tier / N-Layer Architecture](https://www.linkedin.com/pulse/n-tier-n-layer-architecture-swapnil-baxi)
+- [Anemic Domain Model vs Full Domain Model](https://martinfowler.com/bliki/AnemicDomainModel.html)
+- [The Anemic Domain Model is not an Anti-Pattern, it’s a SOLID design](https://blog.inf.ed.ac.uk/sapm/2014/02/04/the-anaemic-domain-model-is-no-anti-pattern-its-a-solid-design/)
 *****************************
 RESTful Web API
 - [REST Architectural Constraints](https://restfulapi.net/rest-architectural-constraints/)
