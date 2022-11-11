@@ -93,7 +93,7 @@ Reliability:
 - Underperforming team: Needs more investigation and actions to improve performance of the team before escalation to the PM
 
 Architectural Styles and Patterns
-[Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns)
+- [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns)
 - [Monolithic vs. Microservices Architecture](https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59)
 - [Software Architecture: Patterns for Developers](https://www.linkedin.com/learning/software-architecture-patterns-for-developers)
 - [Microservices Foundations](https://www.linkedin.com/learning/microservices-foundations)
@@ -144,3 +144,16 @@ RESTful Web API
 - [Practical REST API Guide](https://github.com/drminnaar/ranker)
 - [Why HATEOAS is useless and what that means for REST](https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8)
 
+*********************************
+Message Based Architecture. Message Broker
+- [Message-oriented Architectures](https://blogs.msmvps.com/peterritchie/2011/07/14/message-oriented-architectures)
+- [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication)
+- [Message Driven vs Event Driven](https://developer.lightbend.com/docs/akka-platform-guide/concepts/message-driven-event-driven.html)
+- [Message Brokers](https://www.ibm.com/cloud/learn/message-brokers)
+- [5 use cases of message brokers. When you should consider adopting a message broker in your system?](https://tsh.io/blog/message-broker/)
+- [List of message broker software](https://en.wikipedia.org/wiki/Message_broker#List_of_message_broker_software)
+- [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
+- [APACHE KAFKA QUICKSTART](https://kafka.apache.org/quickstart)
+- [What is Azure Service Bus?](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
+- [How to handle typical event-driven architecture failures](https://searchapparchitecture.techtarget.com/tip/How-to-handle-typical-event-driven-architecture-failures)
+- [Understanding Failure Modes in Message and Event-based Systems](https://multithreaded.stitchfix.com/blog/2017/08/21/handling-messaging-failures/)
