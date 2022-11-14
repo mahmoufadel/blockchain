@@ -51,7 +51,8 @@ RESTful Web API
 - [Why HATEOAS is useless and what that means for REST](https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8)
 
 *********************************
-Message Based Architecture. Message Broker
+Message Based Architecture. Message Broker 
+- [RabbitMQ Github](https://github.com/rabbitmq/rabbitmq-dotnet-client/tree/main/projects/RabbitMQ.Client/client/api)
 - [Message-oriented Architectures](https://blogs.msmvps.com/peterritchie/2011/07/14/message-oriented-architectures)
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication)
 - [Message Driven vs Event Driven](https://developer.lightbend.com/docs/akka-platform-guide/concepts/message-driven-event-driven.html)
