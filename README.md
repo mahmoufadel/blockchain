@@ -291,3 +291,10 @@ SDLC. Estimations
 - [Advanced Topics in Agile Planning](https://www.youtube.com/watch?v=D2r2KryYAaY)
 - [Agile at Work: Planning with Agile User Stories](https://www.linkedin.com/learning/agile-at-work-planning-with-agile-user-stories/planning-with-user-stories)
 - [Software Design: From Requirements to Release](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release)
+
+SQL VS NoSQL 
+ - https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+ - https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql
+- https://www.mongodb.com/resources/basics/databases/nosql-explained/when-to-use-nosql
+- https://www.mongodb.com/resources/basics/databases/document-databases
+- https://www.geeksforgeeks.org/data-access-layer/
